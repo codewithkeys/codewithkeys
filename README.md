@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on saving the planet from Elon Musk.
+- 🌱 I’m currently learning Software Engineering Backend Development.
+- 👯 I’m looking to collaborate on mobile apps, web apps, desktop apps, and exercises.
+- 🤔 I’m looking for help with all things Java. Mastery is key.
+- 💬 Ask me about a super power I wish I had in my previous life.
+- 📫 How to reach me: yoly@codewithkeys.com
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: My favorite Netflix series is American Horror Story. 
+
 <!--
 **codewithkeys/codewithkeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
