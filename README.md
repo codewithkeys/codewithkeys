@@ -1,13 +1,14 @@
 ### Hi there 👋
 
+My name is Yoly Keys, a Chicago native who has a passion for technology and innovation. I enjoy nothing more than learning the trends that technology is shaping in order for us to work more efficiently and see advancement and success. I've recently decided to take a leap of faith and join a team of like-minded enthusiasts in mastering a programming language that has evolved from humble beginnings to power a large share of today’s digital world. Welcome to my digital abode.
+
 - 🔭 I’m currently working on saving the planet from Elon Musk.
 - 🌱 I’m currently learning Software Engineering Backend Development.
-- 👯 I’m looking to collaborate on mobile apps, web apps, desktop apps, and exercises.
-- 🤔 I’m looking for help with all things Java. Mastery is key.
+- 👯 I’m looking to collaborate on mobile apps, web apps, and desktop apps.
 - 💬 Ask me about a super power I had in my previous life.
 - 📫 How to reach me: yoly@codewithkeys.com
+- ⚡ Fun fact: I'm terrified of clowns
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: My favorite Netflix series is American Horror Story. 
 
 ## 🧰 Languages and Tools:
 <p align="left">
