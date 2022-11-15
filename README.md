@@ -16,7 +16,7 @@ My name is Yoly Keys, I'm a Chicago native who has a passion for technology and 
 ## 🧰 Upcoming Languages and Tools:
 <p align="left">
   
-- ⚡ Java Concepts 5, 6, 8 and 9.
+- ⚡ Java Concepts 5 through 9
 - ⚡ Git Bash
 - ⚡ IntelliJ
 - ⚡ DynamoDB
