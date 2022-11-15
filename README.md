@@ -13,19 +13,6 @@ My name is Yoly Keys, I'm a Chicago native who has a passion for technology and 
 - ⚡ Fun fact: I'm terrified of clowns
 - 💬 Pronouns: they/them
 
-## 🧰 Upcoming Languages and Tools:
-<p align="left">
-  
-- ⚡ Java Concepts 5 through 9
-- ⚡ Git Bash
-- ⚡ IntelliJ
-- ⚡ DynamoDB
-- ⚡ AWS
-- ⚡ RESTful
-- ⚡ JSON
-  
-</p>
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/codewithkeys" target="_blank">
@@ -50,6 +37,20 @@ My name is Yoly Keys, I'm a Chicago native who has a passion for technology and 
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
 </div>
+
+
+## 🧰 Upcoming Languages and Tools:
+<p align="left">
+  
+- ⚡ Java Concepts 5 through 9
+- ⚡ Git Bash
+- ⚡ IntelliJ
+- ⚡ DynamoDB
+- ⚡ AWS
+- ⚡ RESTful
+- ⚡ JSON
+  
+</p>
 
 <!--
 **codewithkeys/codewithkeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
