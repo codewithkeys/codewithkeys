@@ -8,10 +8,10 @@ My name is Yoly Keys, I'm a Chicago native who has a passion for technology and 
 
 - 🔭 I’m currently working on saving the planet from Elon Musk.
 - 🌱 I’m currently learning Software Engineering Backend Development.
-- 💬 Ask me about a super power I had in my previous life.
+- ❓ Ask me about a super power I had in my previous life.
 - 📫 Let's connect: yoly@codewithkeys.com
 - ⚡ Fun fact: I'm terrified of clowns
-- 😄 Pronouns: they/them
+- 💬 Pronouns: they/them
 
 ## 🧰 Upcoming Languages and Tools:
 <p align="left">
