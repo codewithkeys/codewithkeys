@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://c1.wallpaperflare.com/preview/811/367/789/technology-computer-creative-design.jpg" align="center" style="width: 100%" />
+<img src="https://c0.wallpaperflare.com/preview/697/898/445/cloud-computing-illustration-technology.jpg" align="center" style="width: 100%" />
 </div>  
 
 ### Hi there 👋🏾
@@ -19,8 +19,8 @@ My name is Yoly Keys, I'm a Chicago native who has a passion for technology and 
 <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="Git Bash" height="30" style="vertical-align:top; margin:4px">
 <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-256x256-fkx4hnvo.png" alt="Intelli J" height="30" style="vertical-align:top; margin:4px"> 
+<img src="http://coderdiaries.com/wp-content/uploads/2019/09/amazon-dynamodb-logo.png" alt="Amazon Dynamo DB" height="30" style="vertical-align:top; margin:4px">
 </p>
-
 
 
 <!--
