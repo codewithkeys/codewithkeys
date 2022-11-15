@@ -39,7 +39,7 @@ My name is Yoly Keys, I'm a Chicago native who has a passion for technology and 
 </div>
 
 
-## 🧰 Upcoming Languages and Tools:
+## Upcoming Languages and Tools:
 <p align="left">
   
 - ⚡ Java Concepts 5 through 9
