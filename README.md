@@ -4,23 +4,26 @@
 
 ### Hi there 👋🏾
 
-My name is Yoly Keys, I'm a Chicago native who has a passion for technology and innovation. I enjoy nothing more than learning the trends that technology is shaping in order for us to work more efficiently and see advancement and success. I've recently decided to take a leap of faith and join a team of like-minded enthusiasts in mastering a programming language that has evolved from humble beginnings to power a large share of today’s digital world. Welcome to my digital abode.
+My name is Yoly Keys, I'm a Chicago native who has a passion for technology and innovation. I enjoy nothing more than learning the trends that technology is shaping in order for us to work more efficiently and see advancement and success. I've recently decided to take a leap of faith and joined a team of like-minded enthusiasts in mastering a programming language that has evolved from humble beginnings to power a large share of today’s digital world. #KenzieWorld
 
 - 🔭 I’m currently working on saving the planet from Elon Musk.
 - 🌱 I’m currently learning Software Engineering Backend Development.
-- 👯 I’m looking to collaborate on mobile apps, web apps, and desktop apps.
 - 💬 Ask me about a super power I had in my previous life.
-- 📫 How to reach me: yoly@codewithkeys.com
+- 📫 Let's connect: yoly@codewithkeys.com
 - ⚡ Fun fact: I'm terrified of clowns
 - 😄 Pronouns: they/them
 
-## 🧰 Languages and Tools:
+## 🧰 Upcoming Languages and Tools:
 <p align="left">
-<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="Git Bash" height="30" style="vertical-align:top; margin:4px">
-<img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-256x256-fkx4hnvo.png" alt="Intelli J" height="30" style="vertical-align:top; margin:4px"> 
-<img src="https://user-images.githubusercontent.com/116820221/201822754-2a06cf44-ae61-411e-a433-d1bf2c8eb513.png" alt="Amazon Web Services" height="30" style="vertical-align:top; margin:4px">
-<img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-256x256-fkx4hnvo.png](https://w7.pngwing.com/pngs/226/7/png-transparent-aws-dynamodb-hd-logo-thumbnail.png" alt="Intelli J" height="30" style="vertical-align:top; margin:4px">
+  
+- ⚡ Java Concepts 5, 6, 8 and 9.
+- ⚡ Git Bash
+- ⚡ IntelliJ
+- ⚡ DynamoDB
+- ⚡ AWS
+- ⚡ RESTful
+- ⚡ JSON
+  
 </p>
 
 
