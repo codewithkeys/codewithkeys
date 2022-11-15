@@ -19,7 +19,8 @@ My name is Yoly Keys, I'm a Chicago native who has a passion for technology and 
 <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="Git Bash" height="30" style="vertical-align:top; margin:4px">
 <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-256x256-fkx4hnvo.png" alt="Intelli J" height="30" style="vertical-align:top; margin:4px"> 
-<img src="https://user-images.githubusercontent.com/116820221/201822754-2a06cf44-ae61-411e-a433-d1bf2c8eb513.png" alt="Amazon Dynamo DB" height="30" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/116820221/201822754-2a06cf44-ae61-411e-a433-d1bf2c8eb513.png" alt="Amazon Web Services" height="30" style="vertical-align:top; margin:4px">
+<img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-256x256-fkx4hnvo.png](https://w7.pngwing.com/pngs/226/7/png-transparent-aws-dynamodb-hd-logo-thumbnail.png" alt="Intelli J" height="30" style="vertical-align:top; margin:4px">
 </p>
 
 
