@@ -45,8 +45,11 @@ My name is Yoly Keys, I'm a Chicago native who has a passion for technology and 
 </a>
 <a href="https://gitlab.com/codewithkeys" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/codewithkeys" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
 
 <!--
 **codewithkeys/codewithkeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
