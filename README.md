@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏾
 
 My name is Yoly Keys, a Chicago native who has a passion for technology and innovation. I enjoy nothing more than learning the trends that technology is shaping in order for us to work more efficiently and see advancement and success. I've recently decided to take a leap of faith and join a team of like-minded enthusiasts in mastering a programming language that has evolved from humble beginnings to power a large share of today’s digital world. Welcome to my digital abode.
 
