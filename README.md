@@ -2,17 +2,6 @@
 <img src="https://c0.wallpaperflare.com/preview/697/898/445/cloud-computing-illustration-technology.jpg" align="center" style="width: 100%" />
 </div>  
 
-### Hi there 👋🏾
-
-My name is Yoly Keys, I'm a Chicago native who has a passion for technology and innovation. I enjoy nothing more than learning the trends that technology is shaping in order for us to work more efficiently and see advancement and success. I've recently decided to take a leap of faith and joined a team of like-minded enthusiasts in mastering a programming language that has evolved from humble beginnings to power a large share of today’s digital world. #KenzieWorld
-
-- 🔭 I’m currently working on saving the planet from Elon Musk.
-- 🌱 I’m currently learning Software Engineering Backend Development.
-- ❓ Ask me about a super power I had in my previous life.
-- 📫 Let's connect: yoly@codewithkeys.com
-- ⚡ Fun fact: I'm terrified of clowns
-- 💬 Pronouns: they/them
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/codewithkeys" target="_blank">
@@ -37,6 +26,17 @@ My name is Yoly Keys, I'm a Chicago native who has a passion for technology and 
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
 </div>
+
+### Hi there 👋🏾
+
+My name is Yoly Keys, I'm a Chicago native who has a passion for technology and innovation. I enjoy nothing more than learning the trends that technology is shaping in order for us to work more efficiently and see advancement and success. I've recently decided to take a leap of faith and joined a team of like-minded enthusiasts in mastering a programming language that has evolved from humble beginnings to power a large share of today’s digital world. #KenzieWorld
+
+- 🔭 I’m currently working on saving the planet from Elon Musk.
+- 🌱 I’m currently learning Software Engineering Backend Development.
+- ❓ Ask me about a super power I had in my previous life.
+- 📫 Let's connect: yoly@codewithkeys.com
+- ⚡ Fun fact: I'm terrified of clowns
+- 💬 Pronouns: they/them
 
 
 ## Upcoming Languages and Tools:
