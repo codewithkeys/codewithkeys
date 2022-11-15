@@ -21,8 +21,7 @@ My name is Yoly Keys, I'm a Chicago native who has a passion for technology and 
 <img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-256x256-fkx4hnvo.png" alt="Intelli J" height="30" style="vertical-align:top; margin:4px"> 
 </p>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=codewithkeys&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 
 <!--
 **codewithkeys/codewithkeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
