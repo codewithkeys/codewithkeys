@@ -29,7 +29,7 @@
 
 ### Hi there 👋🏾
 
-My name is Yoly Keys, I'm a Chicago native who has a passion for technology and innovation. I enjoy nothing more than learning the trends that technology is shaping in order for us to work more efficiently and see advancement and success. I've recently decided to take a leap of faith and joined a team of like-minded enthusiasts in mastering a programming language that has evolved from humble beginnings to power a large share of today’s digital world. #KenzieWorld
+My name is Yoly Keys, I'm a Chicago native who has a passion for technology and innovation. I enjoy nothing more than learning the trends that technology is shaping in order for us to work more efficiently and see advancement and success. I've recently decided to take a leap of faith and joined a team of like-minded enthusiasts in mastering a programming language that has evolved from humble beginnings to power a large share of today’s digital world.
 
 - 🔭 I’m currently working on saving the planet from Elon Musk.
 - 🌱 I’m currently learning Software Engineering Backend Development.
