@@ -38,7 +38,7 @@ My name is Yoly Keys, I'm a Chicago native who has a passion for technology and 
 </p>
 
 
-## Currently Working On The Following Skill Sets:  
+## Currently Learning On The Following Skill Sets:  
 <table><tr><td valign="top" width="33%">
 
 
