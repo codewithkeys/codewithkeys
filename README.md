@@ -93,7 +93,6 @@ My name is Yoly Keys, I'm a Chicago native who has a passion for technology and 
 
 </td></tr></table>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1221805047&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <!--
 **codewithkeys/codewithkeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
