@@ -25,11 +25,11 @@
 
 ### Hi there 👋🏾
 
-My name is Yoly Keys, I'm a Chicago native who has a passion for technology and innovation. I enjoy nothing more than learning the trends that technology is shaping in order for us to work more efficiently and see advancement and success. We have sucessfully evolved from humble beginnings to power a large share of today’s digital world. We should teach the students, as well as executives, how to conduct experiments, how to examine data, and how to use these tools to make better decisions.
+I enjoy nothing more than learning the trends that technology is shaping in order for us to work more efficiently and see advancement and success. We have sucessfully evolved from humble beginnings to power a large share of today’s digital world. We should teach the students, as well as executives, how to conduct experiments, how to examine data, and how to use these tools to make better decisions.
 
 - 🔭 Who can save us from Elon Musk?
 - ❓ Ask me about my super power.
-- 📫 Let's connect: yoly@codewithkeys.com
+- 📫 Let's connect: imdenisebanx@gmail.com
  
 </p>
 
