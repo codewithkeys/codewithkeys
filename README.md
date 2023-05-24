@@ -1,6 +1,6 @@
-Hi, I'm Denise! <br><a href="https://github.com/joshmadakor1">Cyber Security Support Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a><br/>
+Hi, I'm Denise! <br><a href="https://github.com/joshmadakor1">Chicago Native</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a><br/>
 
-I am a _Deep Learning Software Engineer_ at Intel and a grad student at the University of Edinburgh.
+<h2>I am a Cyber Security Support Engineer at ITC Management and a grad student at Western Govenors University.</h2>
 
 - 🔭 I’m currently working on:
   - _Implementing Panoptic Segmentation for [TensorFlow Model Garden](https://github.com/tensorflow/models/tree/master/official/vision/beta)_
