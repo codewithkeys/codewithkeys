@@ -1,6 +1,6 @@
 Hi, I'm Denise! <br><a href="https://github.com/joshmadakor1">Chicago Native</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a><br/>
 
-<h2>I am a Cyber Security Support Engineer at ITC Management and a grad student at Western Govenors University.</h2>
+<h2>I am a Cyber Security Support Engineer at ITC Management and a grad student at WGU.</h2>
 
 - 🔭 I’m currently working on:
   - _Implementing Panoptic Segmentation for [TensorFlow Model Garden](https://github.com/tensorflow/models/tree/master/official/vision/beta)_
