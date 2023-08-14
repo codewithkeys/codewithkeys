@@ -33,5 +33,5 @@ Hi, I'm Denise!
 
 #CyberGuardianInTheMaking #DigitalDefender #SecuringTheVirtualFrontier
 
-<br><a href="https://imgbb.com/"><img src="https://i.ibb.co/qy9kgyz/coursera-specialization-badge.png" alt="coursera-specialization-badge for Linux and Git" border="0" size="150" height="150" width="150"></a> <a href="https://ibb.co/YfBYj4Q"><img src="https://i.ibb.co/WBvqKN5/Google-IT-Support-Certificate-Badge.png" alt="Google-IT-Support-Certificate-Badge" border="0" size="170" height="170" width="170"></a>
+<br><a href="https://imgbb.com/"><img src="https://i.ibb.co/qy9kgyz/coursera-specialization-badge.png" alt="coursera-specialization-badge for Linux and Git" border="0" size="160" height="160" width="160"></a>   <a href="https://ibb.co/YfBYj4Q"><img src="https://i.ibb.co/WBvqKN5/Google-IT-Support-Certificate-Badge.png" alt="Google-IT-Support-Certificate-Badge" border="0" size="180" height="180" width="180"></a>   <a href="https://ibb.co/YfBYj4Q"><a href="https://imgbb.com/"><img src="https://i.ibb.co/ZBGM3zb/certified-in-cybersecurity-cc.png" alt="certified-in-cybersecurity-cc" border="0" size="150" height="150" width="150"></a>
 
