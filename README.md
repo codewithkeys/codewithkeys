@@ -33,4 +33,4 @@ Hi, I'm Denise!
 
 #CyberGuardianInTheMaking #DigitalDefender #SecuringTheVirtualFrontier
 
-<br><a href="https://imgbb.com/"><img src="https://i.ibb.co/qy9kgyz/coursera-specialization-badge.png" alt="coursera-specialization-badge for Linux and Git" border="0"></a>
+<br><a href="https://imgbb.com/"><img src="https://i.ibb.co/qy9kgyz/coursera-specialization-badge.png" alt="coursera-specialization-badge for Linux and Git" border="0" size="140" height="140" width="140"></a>
