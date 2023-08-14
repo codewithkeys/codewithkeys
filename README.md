@@ -32,3 +32,5 @@ Hi, I'm Denise!
 🔗 Let's connect and exchange insights—because in the boundless world of cyberspace, unity spells invincibility. Don't hesitate to reach out and share tales of exploits and triumphs!
 
 #CyberGuardianInTheMaking #DigitalDefender #SecuringTheVirtualFrontier
+
+<br><a href="https://imgbb.com/"><img src="https://i.ibb.co/qy9kgyz/coursera-specialization-badge.png" alt="coursera-specialization-badge for Linux and Git" border="0"></a>
