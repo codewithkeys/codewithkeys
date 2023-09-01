@@ -1,6 +1,6 @@
 Hi, I'm Denise! 
 
-<br><a href="https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html#_">Ethical Hacker in Training </a>| <a href="https://www.credly.com/badges/67e0f107-fc4b-48ce-a6d8-fa0fe39dcca4/public_url">InfoSec Enthusiast </a> | <a href="https://cybergate2.com/">IT Consultant</a><br/>
+<br><a href="https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html#_">GRC Analyst </a>| <a href="https://www.credly.com/badges/67e0f107-fc4b-48ce-a6d8-fa0fe39dcca4/public_url">InfoSec Enthusiast </a> | <a href="https://cybergate2.com/">IT Consultant</a><br/>
 
 <h2>My Cybersecurity Journey</h2>
 
