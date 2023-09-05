@@ -33,7 +33,7 @@ Hi, I'm Denise!
 
 #CyberGuardianInTheMaking #DigitalDefender #SecuringTheVirtualFrontier
 
-“The 'skills gap' is an illusion that lives in the minds of cybersecurity leaders. There is no skills gap. There is only a demand gap.”
+🥷🏼 “The 'skills gap' is an illusion that lives in the minds of cybersecurity leaders. There is no skills gap. There is only a demand gap.”
 — Naomi Buckwalter, Founder & Executive Director, Cybersecurity Gatebreakers Foundation
 
 
